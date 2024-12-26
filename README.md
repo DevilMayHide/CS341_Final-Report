@@ -43,7 +43,7 @@ Below are the key results from the experiments:
 | 50 pages, cache 10  | 2052               | 2073             |
 | 100 pages, cache 50 | 1263               | 1291             |
 
-For a detailed analysis, refer to the 
+For a detailed analysis, refer to the [project report](OS_Final_Report.pdf).
 
 ---
 
